@@ -1,8 +1,8 @@
 class SpiceProtocol < Formula
   desc "Headers for SPICE protocol"
   homepage "https://www.spice-space.org/"
-  url "https://www.spice-space.org/download/releases/spice-protocol-0.14.1.tar.bz2"
-  sha256 "79e6da61834b080a143234c1cd4c099a8ead1a64b5039489610b72ab282c132a"
+  url "https://www.spice-space.org/download/releases/spice-protocol-0.14.4.tar.xz"
+  sha256 "04ffba610d9fd441cfc47dfaa135d70096e60b1046d2119d8db2f8ea0d17d912"
 
   def install
     system "./configure", "--disable-silent-rules",
