@@ -13,7 +13,6 @@ class VirtViewer < Formula
 
   depends_on "desktop-file-utils"
   depends_on "glib"
-  depends_on "glib-utils"
   depends_on "gtk-vnc"
   depends_on "gtk+3"
   depends_on "libvirt-glib"
