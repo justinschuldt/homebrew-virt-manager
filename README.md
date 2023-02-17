@@ -5,7 +5,7 @@ A set of [homebrew][homebrew] formulae to install [`virt-manager`][virt-manager]
 
 ## Usage
 
-    brew tap fv3rdugo/homebrew-virt-manager
+    brew tap UPC/homebrew-virt-manager
     brew install virt-manager virt-viewer
 
 ## FAQs
