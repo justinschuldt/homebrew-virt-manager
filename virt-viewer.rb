@@ -9,6 +9,7 @@ class VirtViewer < Formula
   depends_on "pkg-config" => :build
 
   depends_on "gtk+3"
+  depends_on "pygobject3"
   depends_on "gtk-vnc"
   depends_on "hicolor-icon-theme"
   depends_on "libvirt"
