@@ -5,8 +5,8 @@ A set of [homebrew][homebrew] formulae to install [`virt-manager`][virt-manager]
 
 ## Usage
 
-    brew tap UPC/homebrew-virt-manager
-    brew install virt-manager virt-viewer
+    brew tap justinschuldt/homebrew-virt-manager
+    brew install virt-viewer
 
 ## FAQs
 
